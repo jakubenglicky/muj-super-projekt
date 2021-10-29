@@ -1,5 +1,5 @@
 <?php
 
-echo "Start CLI";
+echo "Starting CLI...";
 
 exit(0);
